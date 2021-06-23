@@ -213,10 +213,6 @@ models:
       - type: boolean
         name: main_nav
         label: Main Nav
-  basicpage:
-    type: page
-    label: Basic Page
-    match: "*.pdf"
   post:
     type: page
     label: Post

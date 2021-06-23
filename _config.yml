@@ -47,6 +47,10 @@ jekyll-archives:
     category: '/category/:name/'
     tag: '/tag/:name/'
 
+# navigate test 
+navigattion:
+  - {file: "AndersonSean.CV.2021.pdf", title: "CV"}
+
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
 
