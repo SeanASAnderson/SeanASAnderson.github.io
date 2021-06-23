@@ -49,7 +49,8 @@ jekyll-archives:
 
 # navigate test 
 navigation:
-  - {file: "AndersonSean.CV.2021.pdf", title: "CV"}
+  - file: "AndersonSean.CV.2021.pdf"
+  - title: "CV"
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
