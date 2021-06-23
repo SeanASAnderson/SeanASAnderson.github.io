@@ -3,7 +3,9 @@
 
 // Typography
 $base-font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif; // $helvetica;
-$heading-font-family: "Benne", Roboto Slab", "Helvetica Neue", "Helvetica", "Arial", sans-serif; // $base-font-family;
+// original settings: $heading-font-family: Roboto Slab", "Helvetica Neue", "Helvetica", "Arial", sans-serif; // $base-font-family;
+// new settings
+$heading-font-family: "Benne", serif;
 
 // Font Sizes
 $base-font-size: $em-base; // 16px
