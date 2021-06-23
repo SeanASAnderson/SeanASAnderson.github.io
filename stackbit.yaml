@@ -45,6 +45,9 @@ models:
       - type: image
         name: logo
         label: Logo Image
+      - type: object
+        name: navigation
+        label: Navigation
       - type: list
         name: plugins
         label: Plugins
