@@ -48,7 +48,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # navigate test 
-navigattion:
+navigation:
   - {file: "AndersonSean.CV.2021.pdf", title: "CV"}
 
 # Google analytics
