@@ -34,14 +34,15 @@ $purple: #8e44ad;			// Wisteria
 $orange: #d35400;			// Pumpkin
 $red:	#c0392b;				// Pomegranate
 $gray: #7f8c8d;				// Asbestos
+$olive: #6ab04c
 // Even more colors
 $bc-red: #bc0000;
 
 // Font Colors
 $base-background-color: #fff;
 $base-font-color: $dark-gray;
-$action-color: $green;
-//$highlight-color: tint($action-color, 33%) *original template setting*
+$action-color: $olive;
+//$highlight-color: tint($action-color, 33%) *original template setting*;
 $highlight-color: $action-color;
 
 // Border
