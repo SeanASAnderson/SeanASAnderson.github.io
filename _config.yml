@@ -82,7 +82,7 @@ social:
     #username: seanASanderson
     url: https://twitter.com/seanASanderson
     desc: Follow me on Twitter
-    share: true
+    share: false
 
   - name: GitHub
     icon: github
