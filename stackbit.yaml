@@ -46,11 +46,6 @@ models:
         name: logo
         label: Logo Image
       - type: list
-        name: navigation
-        label: Navigation
-        items:
-          type: string
-      - type: list
         name: plugins
         label: Plugins
         description: External plugins
