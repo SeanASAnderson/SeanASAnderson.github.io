@@ -1,12 +1,12 @@
 # External plugins
 # See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
-#plugins:
+plugins:
 #  - jekyll-archives # Sorry, not GitHub pages friendly!
-#  - jekyll-sitemap
-#  - jekyll-paginate-v2
+  - jekyll-sitemap
+  - jekyll-paginate-v2
 
 #exclude:
-#  - "/vendor/"
+  - "/vendor/"
 
 # Site settings
 title: Sean A. S. Anderson
