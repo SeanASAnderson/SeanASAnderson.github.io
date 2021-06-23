@@ -197,7 +197,26 @@ models:
   basicpage:
     type: page
     label: Basic Page
-    match: "*.md" ".pdf"
+    match: "*.md"
+    fields:
+      - type: string
+        name: layout
+        label: Page Layout
+        default: page
+        required: true
+      - type: string
+        name: title
+        label: Title
+      - type: string
+        name: permalink
+        label: Permalink
+      - type: boolean
+        name: main_nav
+        label: Main Nav
+ basicpage:
+    type: page
+    label: Basic Page
+    match: "*.pdf"
     fields:
       - type: string
         name: layout
