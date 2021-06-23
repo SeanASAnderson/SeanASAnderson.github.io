@@ -74,13 +74,15 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  - icon: twitter
+  - name: Twitter
+    icon: twitter
     #username: seanASanderson
     url: https://twitter.com/seanASanderson
     desc: Follow me on Twitter
     share: true
 
-  - icon: github
+  - name: GitHub
+    icon: github
     #username: SeanASAnderson
     url: https://github.com/SeanASAnderson
     desc: Fork me on GitHub
