@@ -197,7 +197,7 @@ models:
   basicpage:
     type: page
     label: Basic Page
-    match: "*.md"
+    match: "*.md" ".pdf"
     fields:
       - type: string
         name: layout
