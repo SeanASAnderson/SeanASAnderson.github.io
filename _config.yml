@@ -79,14 +79,14 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: seanASanderson
+    #username: seanASanderson
     url: https://twitter.com/seanASanderson
     desc: Follow me on Twitter
     share: true
 
   - name: GitHub
     icon: github
-    username: SeanASAnderson
+    #username: SeanASAnderson
     url: https://github.com/SeanASAnderson
     desc: Fork me on GitHub
     share: true
