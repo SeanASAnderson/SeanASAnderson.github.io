@@ -5,15 +5,8 @@ permalink: /research/
 main_nav: true
 ---
 
+**For species richness to evolve in a clade, two processes must occur**. First, lineages must split into two or more descendants (i.e. they must speciate), and second, descendant lineages must establish overlapping ranges. 
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif){:.profile}
+While the first requirement is self-evident, the second follows from the fact that speciation is largely an allopatric process, and allopatry is often achieved when a species’ range is split into two or more isolated subdivisions (i.e. “vicariance”). **But vicariance alone is ultimately limited in its ability to generate diversity**, as ranges can only be split so many times before geographic partitions become too small to support viable populations. For diversification to continue, lineages must expand geographically to attain range sizes that can support further subdivision. In practice, this means lineages must often overlap with close relatives. Speciation and the establishment of sympatry are thus the two critical rate-limiting steps in the diversification cycle. The primary focus of my research is to better understand their drivers. 
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
-
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
-
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+For much of the recent past, evolutionary ecologists working on speciation and coexistence have relied on naturally occurring model systems -- recently diverged lineages evolving in simplified ecological settings such as young habitat islands. While these systems are fairly tractable, their environmental circustances are exceptional. This makes generalizataion difficult. 
