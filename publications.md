@@ -14,8 +14,8 @@ Mikkelsen, E.K., Weir, J.T. *Under Review*. Geographic contact drives increased 
 
 ## Out Now
 
-**Anderson, S.A.S.** and Weir, J.T. (2021). Character displacement drives trait divergence in a continental fauna. Proceedings of the National Academy of Sciences. [118: e2021209118](https://doi.org/10.1073/pnas.2021209118)
+**Anderson, S.A.S.** and Weir, J.T. (2021). Character displacement drives trait divergence in a continental fauna. Proceedings of the National Academy of Sciences. [118: e2021209118](https://doi.org/10.1073/pnas.2021209118).  
 Article was the PNAS cover story
 
-**Anderson, S.A.S.** and Weir, J.T. (2020). A comparative test for divergent adaptation: inferring speciation drivers from functional trait divergence. American Naturalist [196: 429-442](https://doi.org/10.1086/710338). 
+**Anderson, S.A.S.** and Weir, J.T. (2020). A comparative test for divergent adaptation: inferring speciation drivers from functional trait divergence. American Naturalist [196: 429-442](https://doi.org/10.1086/710338).  
 Article made the journal’s ‘Most Read’ list in Fall 2020.
