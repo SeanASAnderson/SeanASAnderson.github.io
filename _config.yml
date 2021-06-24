@@ -10,7 +10,7 @@ plugins:
 
 # Site settings
 title: Sean A. S. Anderson
-subtitle: [My CV](https://github.com/SeanASAnderson/CV/blob/main/AndersonSean.CV.2021.pdf)
+subtitle: <a href="https://github.com/SeanASAnderson/CV/blob/main/AndersonSean.CV.2021.pdf">My CV</a>
 author: "Sean Anderson"
 email: sean.as.anderson@gmail.com
 name: Sean Anderson
