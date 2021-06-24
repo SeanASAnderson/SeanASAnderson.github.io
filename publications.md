@@ -10,7 +10,7 @@ main_nav: true
 **Anderson, S.A.S.**, Lopez-Fernandez, H., Weir, J.T. *Under Review*. Does ecological speciation generate continental biodiversity?
 
 Bemmels, J.B., Bramwell, A.C., **Anderson, S.A.S.**, Luzuriaga-Aveiga, V.E.,
-Mikkelsen, E.K., Weir, J.T. *Under Review*. Geographic contact drives increased reproductive isolation in two cryptic Empidonax flycatchers.
+Mikkelsen, E.K., Weir, J.T. *Under Review*. Geographic contact drives increased reproductive isolation in two cryptic *Empidonax* flycatchers.
 
 ## Out Now
 
