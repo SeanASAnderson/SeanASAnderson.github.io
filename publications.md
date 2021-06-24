@@ -7,7 +7,7 @@ main_nav: true
 
 ## Under Review
 
-**Anderson, S.A.S.**, Lopez-Fernandez, H., Weir, J.T. *Under Review* Does ecological speciation generate continental biodiversity? Ecology Letters
+**Anderson, S.A.S.**, Lopez-Fernandez, H., Weir, J.T. *Under Review*. Does ecological speciation generate continental biodiversity? Ecology Letters
 
 Bemmels, J.B., Bramwell, A.C., **Anderson, S.A.S.**, Luzuriaga-Aveiga, V.E.,
 Mikkelsen, E.K., Weir, J.T. *Under Review*. Geographic contact drives increased reproductive isolation in two cryptic Empidonax flycatchers. Molecular Ecology. 
@@ -19,3 +19,8 @@ Mikkelsen, E.K., Weir, J.T. *Under Review*. Geographic contact drives increased 
 
 **Anderson, S.A.S.** and Weir, J.T. (2020). A comparative test for divergent adaptation: inferring speciation drivers from functional trait divergence. American Naturalist [196: 429-442.](https://doi.org/10.1086/710338)  
 *Article made the journal’s ‘Most Read’ list in Fall 2020.*
+
+## Published Software
+
+Anderson, S.A.S. and Weir, J.T. (2021). diverge: evolutionary trait divergence between 
+sister species and other paired lineages. R package version 2.0.1. https://cran.r-project.org/web/packages/diverge/index.html
