@@ -15,4 +15,4 @@ I served as Editor in Chief for the first five issues. Leading an editorial boar
 
 During this time, I wrote the editorials and contributed two feature essays: a tutorial for running R scripts on UofT’s Niagara supercomputer, and an interview with Professor Sharon Strauss (the 2019 Atwood Colloquium's keynote speaker). I also designed a photo essay from stunning images of the Canadian arctic captured by fellow grad students Clara Thaysen and Russel Turner. I stepped down as EIC in 2020 and continue to serve as a newsletter editor. 
 
-Please visit the EEB Quarterly's website to download our published issues. Be sure to set your PDF reader to 2-page view format -- the Quarterly is formatted as a magazine and contains spreads that don't make sense when viewed one page at a time.
+Please visit the EEB Quarterly's website to download our published issues. Be sure to set your PDF reader to 2-page view format -- the Quarterly is formatted as a magazine and contains photo spreads that don't make sense when viewed one page at a time.
