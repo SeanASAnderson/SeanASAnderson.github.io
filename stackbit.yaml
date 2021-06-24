@@ -9,6 +9,7 @@ dataDir: ""
 excludePages:
   - LICENSE.md
   - README.md
+  - posts.md
 models:
   config:
     type: data
