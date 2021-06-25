@@ -28,6 +28,6 @@ Mikkelsen, E.K., Weir, J.T. <i>Under Review</i>. Geographic contact drives incre
 
 <h2>Published Software</h2>
 
-<p><b>Anderson, S.A.S.</b> and Weir, J.T. (2021). diverge: evolutionary trait divergence between sister species and other paired lineages. R package version 2.0.1. <a href="https://cran.r-project.org/web/packages/diverge/index.html"><i>CRAN page</i></a></p>
+<p><b>Anderson, S.A.S.</b> and Weir, J.T. (2021). diverge: evolutionary trait divergence between sister species and other paired lineages. R package version 2.0.1. <a href="https://cran.r-project.org/web/packages/diverge/index.html"><b><i>CRAN page</i></b></a></p>
 
 </body>
