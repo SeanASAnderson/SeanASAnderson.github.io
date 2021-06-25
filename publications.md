@@ -5,7 +5,7 @@ permalink: /pubs/
 main_nav: true
 ---
 
-<img src="/assets/pnas_118_20_coverthumb_smaller.jpg", alt="PNAS_cov_118_20">
+<img src="/assets/pnas_118_20_coverthumb_smaller.jpg" alt="PNAS_cov_118_20">
 
 ## Under Review
 
