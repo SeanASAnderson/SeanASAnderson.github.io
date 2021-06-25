@@ -5,6 +5,8 @@ permalink: /pubs/
 main_nav: true
 ---
 
+![PNAS cover](/assets/pnas_118_20_coverthumb_smaller.jpg)
+
 ## Under Review
 
 **Anderson, S.A.S.**, Lopez-Fernandez, H., Weir, J.T. *Under Review*. Does ecological speciation generate continental biodiversity?
