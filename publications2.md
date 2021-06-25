@@ -20,9 +20,14 @@ Mikkelsen, E.K., Weir, J.T. <i>Under Review</i>. Geographic contact drives incre
 
 <h2>Out Now</h2>
 
-<p><img src="/assets/pnas_118_20_coverthumb_smaller.jpg" alt="PNAS cov" style="width:120px;height:180px;margin-left:15px;"> <b>Anderson, S.A.S.</b> and Weir, J.T. (2021). Character displacement drives trait divergence in a continental fauna. Proceedings of the National Academy of Sciences. [118: e2021209118.](https://doi.org/10.1073/pnas.2021209118)   
+<p><img src="/assets/pnas_118_20_coverthumb_smaller.jpg" alt="PNAS cov" style="width:120px;height:180px;margin-left:20px;"> <b>Anderson, S.A.S.</b> and Weir, J.T. (2021). Character displacement drives trait divergence in a continental fauna. Proceedings of the National Academy of Sciences. [118: e2021209118.](https://doi.org/10.1073/pnas.2021209118)   
 <i>Article was the PNAS cover story</i></p>
 
 <p><b>Anderson, S.A.S.</b> and Weir, J.T. (2020). A comparative test for divergent adaptation: inferring speciation drivers from functional trait divergence. American Naturalist [196: 429-442.](https://doi.org/10.1086/710338)  
 <i>Article made the journal’s ‘Most Read’ list in Fall 2020.</i></p>
+
+<h2>Published Software</h2>
+
+<p><b>Anderson, S.A.S.</b> and Weir, J.T. (2021). diverge: evolutionary trait divergence between sister species and other paired lineages. R package version 2.0.1. <a href="https://cran.r-project.org/web/packages/diverge/index.html"><i>CRAN page</i></a></p>
+
 </body>
