@@ -7,7 +7,7 @@ main_nav: true
 
 <!--<img src="/assets/pnas_118_20_coverthumb_smaller.jpg" alt="PNAS_cov_118_20" width="400" heigh="600">-->
 
-![alt text]({{ site.baseurl }}/pnas_118_20_coverthumb_smaller.jpg "PNASCov"){:.profile}
+![alt text]({{ site.baseurl }}/assets/pnas_118_20_coverthumb_smaller.jpg "PNASCov"){:.profile}
 
 ## Under Review
 
