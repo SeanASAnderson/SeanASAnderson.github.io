@@ -9,7 +9,7 @@ main_nav: true
 
 While the first requirement is self-evident, the second follows from the fact that speciation is largely an allopatric process, and allopatry is often achieved when a species’ range is split into two or more isolated subdivisions (i.e. “vicariance”). **But vicariance alone is ultimately limited in its ability to generate diversity**, as ranges can only be split so many times and still support viable populations. For diversification to continue, lineages must expand geographically to attain range sizes that can bear further subdivision. In nature, this means lineages must often overlap with close relatives. 
 
-Speciation and the establishment of sympatry are thus the two critical rate-limiting steps in the diversification cycle. The primary focus of my research is to better understand their drivers. 
+Speciation and the establishment of sympatry are thus the two critical rate-limiting steps in the diversification cycle. The primary focus of my research to-date has been to better understand their drivers. 
 
 {% comment %} 
 ## Questions
@@ -25,16 +25,23 @@ An outstanding question is whether evolutionary ecology's leading model of diver
 
 ### The role of sexual interference in preventing the establishment of sympatry
 
+Ecological competition has long been considered an important factor determining how and if species can coexist, but an often-overloooked factor is that of sexual interference between closely related lineages. Sexual interference is costly 
+
+
 ### Geographic variation in the processes promoting speciation and coexistence
 
+Species richness is unevenly distributed across the globe. geographical variation in extinction is almost certainly a very significant driver these patterns. Geographic variation in diversification processes may also contribute. 
 
-Addressing the generality of ecological divergence as an engine of diversification requires a statistical comparative approach. 
 
-Scale: contemporary macroevolution. new model: divergent adaptation. Sister species (or deeply diverged 'phylogroups' within currently recognized taxonomic species). 
 
-Process models: 
 
-Ecomorphology: 
+Addressing the generality of ecological divergence as an engine of diversification requires a statistical comparative approach. While fine-grained ecological details can't feasibly be obtained for very large numbers of lineages, ecological *differences* between closely related species can be inferred from differences in ecomorphology. Such ecological trait measurements are much more readiliy obtainable from field and museum specimens.
+
+**Scale**: Many models of ecomorphological evolution are concerned with changes in traits across the branches of a phylogenetic tree over relatively deep time. But the processes affecting speciation and coexistence a focus on trait divergence between closely related (and thus recently diverged) lineages means contemporary macroevolution. 
+
+I thus work with and formulate models of trait divergence between closely related lineage pairs including sister species and 'phylogroup' splits within currently recognized taxonomic species. These models cover timescales relevant to most speciation events, which typically require hundreds to single-digit thousands of millenia (exceptional examples of rapid (and often-ephemeral) speciation on islands notwithstanding).
+
+Model processes: divergent adaptation. Sister species (or deeply diverged 'phylogroups' within currently recognized taxonomic species). 
 
 #### Speciation
 
