@@ -13,9 +13,9 @@ Speciation and the establishment of sympatry are thus two critical rate-limiting
 
 ---
 
-<div align="center"> ## Key Research Questions </div>
+<h2 style="text-align:center;"> ## Key Research Questions </h2>
 
-#### The role of ecological divergence in speciation and the establishment of sympatry
+#### 1. The role of ecological divergence in speciation and the establishment of sympatry
 
 For the past twenty years, evolutionary ecologists have largely viewed diversification through the lens of the Ecological Theory of Adaptive Radiation (ETAR; Schluter 2000), an intuitive and influential synthesis in which both speciation and the establishment of sympatry are driven by divergent natural selection. In the theory's classic formulation, reproductive isolation evolves as a consequence of behavioural, phenotypic, or intrinsic genetic changes that accumulate when allopatric lineages adapt in different directions along niche axes such as habitat or diet (“ecological speciation”). Later, when lineages begin to overlap geographically, competition for resources leads to renewed divergent selection and greater ecological divergence (“ecological character displacement”).
 
