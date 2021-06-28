@@ -21,23 +21,24 @@ For the past twenty years, evolutionary ecologists have largely viewed diversifi
 
 Evidence for the ETAR's main tenets has been reported in a number of detailed studies, leading many authors to suggest that adaptive radiation is a generally important mechanism in diversification. However, many of these studies have focused on systems from insular island-like habitats. Newly discovered patterns of genetic and phenotypic divergence in continental taxa, meanwhile, contradict some expectations of this framework. For instance, genomic evidence from tropical avian contact zones show that reproductive isolation readily evolves to virtual completion between lineages with marked ecological similarity. And a growing number of macroevolutionary analyses conclude that clade-wide diversification is more limited by geographic than ecological opportunity. 
 
-**An outstanding question is whether ecological divergence is generally required for speciation or coexistence in the complex ecological theatres in which diversity most generally evolves.**
+An outstanding question is whether ecological divergence is generally required for speciation or coexistence in the complex ecological theatres in which diversity most generally evolves.
 
 #### Approaches
 
-Addressing the generality of ecological divergence as an engine of diversification requires a comparative statistical approach. While fine-grained ecological details can't feasibly be obtained for very large numbers of lineages, ecological *differences* between closely related species can be inferred from differences in ecomorphology. Such ecological trait measurements are much readiliy obtainable from field and museum specimens. I thus work with and formulate statistical models and simulation-based models of trait divergence between closely related lineage pairs. 
+Addressing the generality of ecological divergence as an engine of diversification requires a comparative statistical approach. While fine-grained ecological details can't feasibly be obtained for very large numbers of lineages, ecological *differences* between closely related species can be inferred from differences in ecomorphology. Such ecological trait measurements are readily obtainable from field and museum specimens. I thus work with and formulate statistical models and simulation-based models of trait divergence between closely related lineage pairs. 
 
-The phylogenetic resolution required to identify sister species and their divergence times is currently limited (for the most part) to vertebrates. 
+**Model processes**: Trait differences between lineages can arise for a variety of reasons, and indeed evolved differences in trait means are inevitable given enough time. A key aim of my work has been to distinguish the statistical signature of trait divergence resulting from *divergent selection* -- the driving force behind ecological speciation and character displacement -- versus alternative processes like drift, parallel selection, and fluctuating selection (Anderson and Weir, 2020).
 
-**Model processes**: Trait differences between lineages can arise for a variety of reasons, and indeed evolved differences in trait means are inevitable given enough time. A key aim of my work has been to determine the statistical signature of trait divergence resulting from *divergent selection* -- the driving force behind ecological speciation and character displacement -- versus alternative processes like drift, parallel selection, and fluctuating selection (Anderson and Weir, 2020).
-
-**Addressing Speciaton**: One way to infer the generality of ecological speciation is to estimate the proportion of speciating and recently speciated lineages pairs that show evidence of ecology-based divergent selection (ecological speciaiton's driving force). This proportion can be estimated from mixture models in which different pairs in a lineage-pair dataset conform to different underlying processes of functional trait divergence. I've recently described and tested such models (Anderson et al. *Under Review*), several of which are available in the R package *diverge* (version 2.0 and greater). 
-
-**Addressing Sympatry**: Comparative tests of character displacement have relatively rare in recent years due to the  over the years  models to distinguish between character displacement and species sorting (Anderson and Weir 2021)
-
+**Addressing Speciaton**: One way to infer the generality of ecological speciation is to estimate the proportion of speciating and recently speciated lineages pairs that show evidence of ecology-based divergent selection (ecological speciaiton's driver). This proportion can be estimated from mixture models in which different pairs in a lineage-pair dataset conform to different underlying processes of functional trait divergence. I've recently described and tested such mixture models (Anderson et al. *Under Review*), several of which are available in the R package *diverge* (version 2.0 and greater). 
 
 
 {% comment %} 
+
+**Addressing Sympatry**: Sympatric lineage pairs are often more differentiated in ecomorphology than allopatric pairs, a pattern expected from character displacement. But Comparative tests of character displacement have been relatively rare in recent years due to the difficulty of distinguishing character displacement over the years  models to distinguish between character displacement and species sorting (Anderson and Weir 2021)
+
+
+
+
 
 
 
