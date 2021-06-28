@@ -13,7 +13,7 @@ Speciation and the establishment of sympatry are thus two critical rate-limiting
 
 ---
 
-## Key Research Questions
+<div align="center"> ## Key Research Questions </div>
 
 #### The role of ecological divergence in speciation and the establishment of sympatry
 
