@@ -5,13 +5,13 @@ permalink: /quarterly/
 main_nav: true
 ---
 
-I enjoy reading popular science and science journalism. I also enjoy (if seldom meet) the considerable challenge of trying to clearly explain scientific issues in interesting ways in writing. A long-standing goal of mine is to contribute to the pop-psi genre throughout my career, but early in my PhD, I found there were few outlets to which junior researchers could submit this kind of work.
+I enjoy reading popular science and science journalism. I also enjoy (if seldom meet) the considerable challenge of trying to clearly explain scientific issues in interesting ways in writing. A long-standing goal of mine is to contribute to the pop-psi genre from a researcher's perspective, but early in my PhD, I found there were few outlets to which junior researchers could submit this kind of work.
 
-To help fill the void, in 2018 I created the [***EEB Quarterly***](https://theeebquarterly.github.io), a full-length magazine run by grad students in the [EEB department at the University of Toronto](https://eeb.utoronto.ca/). The magazine's mission is to celebrate the personalities and achievements of those in the EEB community and to provide a rejection-free space for students to practice writing about science in jargon-light prose for a general audience.
+To help fill the void, in 2018 I created the [***EEB Quarterly***](https://theeebquarterly.github.io), a full-length magazine run by and for grad student workers in the [EEB department at the University of Toronto](https://eeb.utoronto.ca/). The magazine's mission is to celebrate the personalities and achievements of those in the EEB community and to provide a rejection-free space for students to practice writing about science in jargon-light prose for a general audience.
 
 ![alt text]({{ site.baseurl }}/assets/quarterlycovers_cropped.jpg)
 
-As Editor in Chief for the first five issues, I led an editorial board of 12 students to determine the focus and aims of each release, solicit contributions, provide guidance with stories, curate photos, design layouts, and typeset the issues on free (but maddening) software (that I hate).
+As Editor in Chief for the first five issues, I led an editorial board of 12 grad students to determine the focus and aims of each release, solicit contributions, provide guidance with stories, curate photos, design layouts, and typeset the issues on free (but maddening) software (that I hate).
 
 During this time, I wrote the editorials and contributed two feature articles: a [**tutorial for running R scripts on UofT’s Niagara supercomputer**](https://github.com/SeanASAnderson/SeanASAnderson.github.io/blob/main/assets/DOWNLOAD_AND_VIEW_IN_2PAGE_FORMAT_EEBQ_MassivelyParallel_Winter18.pdf), and an [**interview**](https://github.com/SeanASAnderson/SeanASAnderson.github.io/blob/main/assets/DOWNLOAD_AND_VIEW_IN_2PAGE_FORMAT_EEBQStraussInterview_Spring19.pdf) with the 2019 Atwood Colloquium's keynote speaker, Professor Sharon Strauss. I also designed a [**photo essay**](https://github.com/SeanASAnderson/SeanASAnderson.github.io/blob/main/assets/DOWNLOAD_AND_VIEW_IN_2PAGE_FORMAT_EEBQ_arcticphotoessay_FallWinter20.pdf) from images of the Canadian Arctic captured by fellow grad workers Clara Thaysen and Russel Turner. I stepped down as EIC in 2020 and continue to serve as a Newsletter Editor. 
 
