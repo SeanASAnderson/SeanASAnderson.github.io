@@ -26,12 +26,12 @@ Evidence for the ETAR's main tenets has been reported in a number of detailed st
 
 An outstanding question is thus whether ecological divergence is generally required for speciation or coexistence in the more complex ecological theatres commonly found on continents.
 
-Refs. 
-Schluter, D. 2000. *The Ecology of Adaptive Radiation*, Oxford Univ. Press.
-Cronemberger et al. (2020). Evolution. 74: 2512-2525
-Pulido-Santacruz, et al. (2020). Evolution. 74: 842-846.
-Alencar, et al. (2017). Proc. R. Soc. B., 284: 20171775. 
-Maestri, et al. (2016). Evolution, 71: 610–632.
+Refs.<br>
+Schluter, D. 2000. *The Ecology of Adaptive Radiation*, Oxford Univ. Press.<br>
+Cronemberger et al. (2020). Evolution. 74: 2512-2525<br>
+Pulido-Santacruz, et al. (2020). Evolution. 74: 842-846.<br>
+Alencar, et al. (2017). Proc. R. Soc. B., 284: 20171775. <br>
+Maestri, et al. (2016). Evolution, 71: 610–632.<br>
 
 
 #### Approaches
