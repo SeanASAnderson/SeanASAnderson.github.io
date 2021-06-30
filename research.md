@@ -24,7 +24,7 @@ For the past twenty years, evolutionary ecologists have largely viewed diversifi
 
 Evidence for the ETAR's main tenets has been reported in a number of detailed studies, many of which focus on systems from insular island-like habitats. But these habitats are somewhat specialized, as they often contain fewer species and lower phylogenetic diversity compared to similar-sized areas on continents. Newly discovered patterns of genetic and phenotypic divergence in continental taxa, meanwhile, contradict some expectations of the ETAR. For instance, genomic evidence from tropical avian contact zones show that reproductive isolation readily evolves to virtual completion between lineages with marked ecological similarity. And a growing number of macroevolutionary analyses conclude that clade-wide diversification is more limited by geographic than ecological opportunity (i.e. opportunity for prolonged allopatry appears to be more important to speciation than opportunity for ecological divergence). 
 
-An outstanding question is thus whether ecological divergence is generally required for speciation or coexistence in the complex ecological theatres commonly found on continents.
+An outstanding question is thus whether ecological divergence is generally required for speciation or coexistence in the more complex ecological theatres commonly found on continents.
 
 Ref. Schluter, D. 2000. *The Ecology of Adaptive Radiation*, Oxford Univ. Press.
 
@@ -37,6 +37,8 @@ Addressing the generality of adaptive ecological divergence as an engine of dive
 <img src="/assets/aw2020_fig1.jpg" alt="aw2020fig1" style="width:350px;"/>
 
 **Divergent Adpatation and Speciaton**: One way to infer the generality of ecological speciation is to estimate the proportion of speciating and recently speciated lineages pairs that show evidence of ecology-based divergent selection (ecological speciation's driver). This proportion can be estimated from mixture models in which different pairs in a lineage-pair dataset conform to different underlying processes of functional trait divergence. I've recently described and tested such mixture models (Anderson et al. *Under Review*), several of which are available in the R package [***diverge*** **(version 2.0 and greater)**](https://cran.r-project.org/web/packages/diverge/index.html). 
+
+<img src="/assets/mix_models.jpg" alt="mixmodel" style="width:500px;"/>
 
 **Divergent Adaptation and Sympatry**: Sympatric lineage pairs are often more differentiated in ecomorphology than allopatric pairs, a pattern expected from character displacement. But this pattern can also be produced if lineages are more likely to establish overlapping ranges in the first place if they evolved greater trait differences prior to secondary contact (i.e. 'species sorting'). I recently developed simulation-based models to distinguish these alternatives and found that character displacement better accounts for observed patterns of bill shape differences in pairs of New World terrestrial birds [(**Anderson and Weir 2021**)](https://doi.org/10.1073/pnas.2021209118). 
 
