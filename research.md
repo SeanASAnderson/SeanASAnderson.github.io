@@ -11,7 +11,7 @@ For species richness to increase, two processes must occur. First, lineages must
 
 While the first requirement is obvious, the second follows from the fact that speciation is largely an allopatric process, and allopatry is often achieved when a species’ range is split into two or more isolated subdivisions (i.e. “vicariance”). But vicariance alone is ultimately limited in its ability to generate diversity, as ranges can only be split so many times and still support viable populations. For diversification to continue, lineages must expand geographically to attain range sizes that can bear further subdivision. In nature, this means lineages must often overlap with close relatives. 
 
-Speciation and the establishment of sympatry are thus two critical rate-limiting steps in the diversification cycle. The primary focus of my thesis work is to better understand their drivers. 
+Speciation and the establishment of sympatry are thus two critical rate-limiting steps in the diversification cycle. The primary focus of my work is to better understand their general drivers. 
 
 ---
 ---
