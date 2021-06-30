@@ -33,7 +33,7 @@ Addressing the generality of adaptive ecological divergence as an engine of dive
 
 **Modelling Divergent Adaptation**: Trait differences between lineages can evolve for a variety of reasons, and indeed differences in trait means will inevitably arise given enough time. A key aim of my work has been to distinguish the statistical signature of trait differences resulting from *divergent selection* -- the driving force behind ecological speciation and character displacement -- versus those that evolve under alternative processes like drift, parallel selection, and fluctuating selection [(**Anderson and Weir, 2020**)](https://doi.org/10.1086/710338).
 
-<img src="assets/aw2020_fig1.jpg" alt="aw2020fig1" width="200"/>
+<img src="/assets/aw2020_fig1.jpg" alt="aw2020fig1" width="200"/>
 
 **Divergent Adpatation and Speciaton**: One way to infer the generality of ecological speciation is to estimate the proportion of speciating and recently speciated lineages pairs that show evidence of ecology-based divergent selection (ecological speciation's driver). This proportion can be estimated from mixture models in which different pairs in a lineage-pair dataset conform to different underlying processes of functional trait divergence. I've recently described and tested such mixture models (Anderson et al. *Under Review*), several of which are available in the R package [***diverge*** **(version 2.0 and greater)**](https://cran.r-project.org/web/packages/diverge/index.html). 
 
