@@ -45,6 +45,7 @@ Addressing the generality of adaptive ecological divergence as an engine of dive
 An additional note on the character displacement models of this paper: previous comparative analyses of character displacement often tested for differences in evolutionary rate between symaptric and allopatric pairs, but an implicit assumption of this approach is that sympatric pairs were always sympatric (even though speciation is agreed to largely require a period of allopatry). A key advance of our character displacement model is that it tests for a shift in selective regime that occurred when lineages are estimated to have become sympatric. 
 <br>
 
+---
 
 ### 2. Geographic variation in the processes promoting speciation and coexistence
 
@@ -54,6 +55,7 @@ Geographic variation in species richness implies geographic variation in the dyn
 
 To test for variation in the dynamics of lineage pair divergence, we can extend trait divergence models to allow key parameters to vary across continuous or categorical variables (e.g. latitude, see [(**Anderson and Weir 2021**)](https://doi.org/10.1073/pnas.2021209118)). A variety of such extended models are available in the *diverge* R package. <br>
 
+---
 
 ### 3. Reinforcement and the role of sexual interference in preventing the establishment of sympatry
 
