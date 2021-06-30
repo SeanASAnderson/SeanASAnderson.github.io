@@ -40,7 +40,7 @@ Addressing the generality of adaptive ecological divergence as an engine of dive
 
 **Divergent Adaptation and Sympatry**: Sympatric lineage pairs are often more differentiated in ecomorphology than allopatric pairs, a pattern expected from character displacement. But this pattern can also be produced if lineages are more likely to establish overlapping ranges in the first place if they evolved greater trait differences prior to secondary contact (i.e. 'species sorting'). I recently developed simulation-based models to distinguish these alternatives and found that character displacement better accounts for observed patterns of bill shape differences in pairs of New World terrestrial birds [(**Anderson and Weir 2021**)](https://doi.org/10.1073/pnas.2021209118). 
 
-![alt text]({{ site.baseurl }}/assets/pnas_fig1.jpg)
+<img src="/assets/pnas_fig1.jpg" alt="aw2021pnasfig1" style="width:500px;"/>
 
 An additional note on the character displacement models of this paper: previous comparative analyses of character displacement often tested for differences in evolutionary rate between symaptric and allopatric pairs, but an implicit assumption of this approach is that sympatric pairs were always sympatric (even though speciation is agreed to largely require a period of allopatry). A key advance of our character displacement model is that it tests for a shift in selective regime that occurred when lineages are estimated to have become sympatric. 
 <br>
