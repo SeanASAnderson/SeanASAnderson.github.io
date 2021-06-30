@@ -57,7 +57,7 @@ Geographic variation in species richness implies geographic variation in the dyn
 
 To test for variation in the dynamics of lineage pair divergence, we can extend trait divergence models to allow key parameters to vary across continuous or categorical variables (e.g. latitude, see [(**Anderson and Weir 2021**)](https://doi.org/10.1073/pnas.2021209118)). A variety of such extended models are available in the *diverge* R package. <br>
 
-<img src="/assets/gradientfig.jpg" alt="gradientfig" style="width:530px;"/>
+<img src="/assets/gradientfig.jpg" alt="gradientfig" style="width:350px;"/>
 
 ---
 
