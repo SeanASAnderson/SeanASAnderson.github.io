@@ -5,7 +5,7 @@ permalink: /quarterly/
 main_nav: true
 ---
 
-I enjoy reading popular science and science journalism. I also enjoy (if seldom meet) the considerable challenge of trying to clearly explain scientific issues in interesting ways in writing. A long-standing goal of mine is to contribute to the pop-psi genre from a researcher's perspective, but early in my PhD, I found there were few outlets to which junior researchers could submit this kind of work.
+I enjoy reading popular science and science journalism. I also enjoy (if seldom meet) the considerable challenge of trying to clearly explain scientific issues in interesting ways in writing. A long-standing goal of mine is to contribute to the pop-sci genre from a researcher's perspective, but early in my PhD, I found there were few outlets to which junior researchers could submit this kind of work.
 
 To help fill the void, in 2018 I created the [***EEB Quarterly***](https://theeebquarterly.github.io), a full-length magazine run by and for grad student workers in the [EEB department at the University of Toronto](https://eeb.utoronto.ca/). The magazine's mission is to celebrate the personalities and achievements of those in the EEB community and to provide a rejection-free space for students to practice writing about science in jargon-light prose for a general audience.
 
