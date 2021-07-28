@@ -13,7 +13,7 @@ img {
 <body>
 <h2>Under Review</h2>
 
-<p><b>Anderson, S.A.S.</b>, L&oacute;pez-Fern&aacute;ndez, H., Weir, J.T. <i>Under Review</i>. Does ecological speciation generate continental biodiversity?</p>
+<p><b>Anderson, S.A.S.</b>, Weir, J.T. <i>Under Review</i>. Testing for divergent adaptation during allopatric speciation </p>
 
 <h2>Out Now</h2>
 
