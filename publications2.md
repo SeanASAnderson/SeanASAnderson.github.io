@@ -20,7 +20,7 @@ img {
 <h2>Out Now</h2>
 
 <p>Bemmels, J.B., Bramwell, A.C., <b>Anderson, S.A.S.</b>, Luzuriaga-Aveiga, V.E.,
-Mikkelsen, E.K., Weir, J.T. <i>Accepted</i>. Geographic contact drives increased reproductive isolation in two cryptic <i>Empidonax</i> flycatchers. Molecular Ecology. <a href="https://doi.org/10.1111/mec.16105"></a></p>
+Mikkelsen, E.K., Weir, J.T. <i>Accepted</i>. Geographic contact drives increased reproductive isolation in two cryptic <i>Empidonax</i> flycatchers. Molecular Ecology. <a href="https://doi.org/10.1111/mec.16105"><b><i>Early view</i></b></a> </p>
 
 <p><a href="https://www.pnas.org/content/118/20.cover-expansion"> <img src="/assets/pnas_118_20_coverthumb_smaller.jpg" alt="PNAS cov" style="width:150px;height:225px;margin-left:05px;"> </a> <b>Anderson, S.A.S.</b> and Weir, J.T. (2021). Character displacement drives trait divergence in a continental fauna. Proceedings of the National Academy of Sciences. <a href="https://doi.org/10.1073/pnas.2021209118"><b><i>118: e2021209118.</i></b></a>
 <i>Article was the PNAS cover story</i></p>
