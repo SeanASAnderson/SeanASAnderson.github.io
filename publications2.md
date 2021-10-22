@@ -15,7 +15,7 @@ img {
 
 <!-- <p><b>Anderson, S.A.S.</b>, Weir, J.T. <i>Under Review</i>. Testing for divergent adaptation during allopatric speciation. </p> -->
 
-<p><b>Anderson, S.A.S.</b>, L&ograve;pez-Fern&agrave;ndez, H., Weir, J.T. <i>Under Review</i>. Does ecological speciation generate continental biodiversity? </p>
+<p><b>Anderson, S.A.S.</b>, L&ograve;pez-Fern&agrave;ndez, H., Weir, J.T. <i>Under Review</i>. Understanding ecology's role in non-ephemeral speciation. </p>
 
 <h2>Out Now</h2>
 
