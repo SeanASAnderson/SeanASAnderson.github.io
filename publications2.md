@@ -15,7 +15,7 @@ img {
 
 <p><b>Anderson, S.A.S.</b>, Weir, J.T. <i>Under Review</i>. The ecology of allopatric speciation. </p>
 
-<p><b>Anderson, S.A.S.</b>, L&ograve;pez-Fern&agrave;ndez, H., Weir, J.T. <i>Under Review</i>. Understanding ecology's role in non-ephemeral speciation. </p>
+<p><b>Anderson, S.A.S.</b>, L&ograve;pez-Fern&agrave;ndez, H., Weir, J.T. <i>Under Review</i>. Ecology and the origin of non-ephemeral species. </p>
 
 <h2>Out Now</h2>
 
