@@ -14,7 +14,6 @@ img {
 <h2>Under Review</h2>
 
 <p><b>Anderson, S.A.S.</b>, Weir, J.T. <i>Under Review</i>. The ecology of allopatric speciation. </p>
-</p>
 
 <h2>Out Now</h2>
 
