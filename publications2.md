@@ -10,7 +10,7 @@ img {
 	float:right;
 }
 </style>
-<body>
+<!-- <body> -->
 <h2>Under Review</h2>
 
 <p><b>Anderson, S.A.S.</b>, Weir, J.T. <i>Under Review</i>. The ecology of allopatric speciation. </p>
@@ -32,4 +32,4 @@ Mikkelsen, E.K., Weir, J.T. (2021). Geographic contact drives increased reproduc
 
 <p><b>Anderson, S.A.S.</b> and Weir, J.T. (2021). diverge: evolutionary trait divergence between sister species and other paired lineages. R package version 2.0.1. <a href="https://cran.r-project.org/web/packages/diverge/index.html"><b><i>CRAN page</i></b></a></p>
 
-</body>
+<!--</body>>
