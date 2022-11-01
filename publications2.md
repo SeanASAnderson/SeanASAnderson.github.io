@@ -11,7 +11,7 @@ img {
 }
 </style>
 
-<h2>Under Review</h2>
+<h2>Submitted</h2>
 
 <p><b>Anderson, S.A.S.</b>, Weir, J.T. <i>In Revision</i>. The ecology of allopatric speciation. </p>
 
