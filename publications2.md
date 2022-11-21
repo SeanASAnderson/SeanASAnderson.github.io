@@ -11,13 +11,13 @@ img {
 }
 </style>
 
-<h2>Submitted</h2>
+<!--<h2>Submitted</h2>
 
-<p><b>Anderson, S.A.S.</b>, Weir, J.T. <i>In Revision</i>. The ecology of allopatric speciation. </p>
+<h2>Out Now</h2>-->
 
-<h2>Out Now</h2>
+<p><b>Anderson, S.A.S.</b>, Weir, J.T. <i>Accepted</i>. The role of divergent ecological adaptation during allopatric speciation in vertebrates. </p>
 
-<p><b>Anderson, S.A.S.</b>, L&ograve;pez-Fern&agrave;ndez, H., Weir, J.T. <i>Accepted</i>. Ecology and the origin of non-ephemeral species. American Naturalist.
+<p><b>Anderson, S.A.S.</b>, L&ograve;pez-Fern&agrave;ndez, H., Weir, J.T. <i>Accepted</i>. Ecology and the origin of non-ephemeral species. American Naturalist.</p>
 
 <p>Bemmels, J.B., Bramwell, A.C., <b>Anderson, S.A.S.</b>, Luzuriaga-Aveiga, V.E.,
 Mikkelsen, E.K., Weir, J.T. (2021). Geographic contact drives increased reproductive isolation in two cryptic <i>Empidonax</i> flycatchers. Molecular Ecology. <a href="https://doi.org/10.1111/mec.16105"><b><i>30: 4833-4844.</i></b></a> </p>
