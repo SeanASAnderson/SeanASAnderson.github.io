@@ -15,7 +15,7 @@ img {
 
 <h2>Out Now</h2>-->
 
-<p><b>Anderson, S.A.S.</b>, Weir, J.T. <i>Accepted</i>. The role of divergent ecological adaptation during allopatric speciation in vertebrates. </p>
+<p><b>Anderson, S.A.S.</b>, Weir, J.T. <i>Accepted</i>. The role of divergent ecological adaptation during allopatric speciation in vertebrates. Science. </p> 
 
 <p><b>Anderson, S.A.S.</b>, L&ograve;pez-Fern&agrave;ndez, H., Weir, J.T. <i>Accepted</i>. Ecology and the origin of non-ephemeral species. American Naturalist.</p>
 
