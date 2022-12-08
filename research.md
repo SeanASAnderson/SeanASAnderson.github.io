@@ -31,11 +31,11 @@ Evidence for the ETAR's main tenets has been reported in a number of detailed st
 An outstanding question is thus whether ecological divergence is generally required for speciation or coexistence in the more complex ecological theatres commonly found on continents.
 
 Refs.<br>
-Schluter, D. 2000. *The Ecology of Adaptive Radiation*, Oxford Univ. Press.<br>
+Schluter (2000). *The Ecology of Adaptive Radiation*, Oxford Univ. Press.<br>
 Cronemberger et al. (2020). Evolution. 74: 2512-2525<br>
 Pulido-Santacruz, et al. (2020). Evolution. 74: 842-846.<br>
-Alencar, et al. (2017). Proc. R. Soc. B., 284: 20171775. <br>
-Maestri, et al. (2016). Evolution, 71: 610–632.<br>
+Alencar, et al. (2017). Proc. R. Soc. B. 284: 20171775. <br>
+Maestri, et al. (2016). Evolution. 71: 610–632.<br>
 
 
 #### Approaches
@@ -75,11 +75,14 @@ To test for variation in the dynamics of lineage pair divergence, we can extend 
 
 The evolutionary road to origin of species is not a one-way street. While barriers to gene flow can quickly arise between lineages under some circumstances, such barriers can also quickly dissolve when circumstances change, resulting in incipient species collapse. In fact, growing evidence supporting an ephemeral speciation model (Rosenblum et al. 2012) suggests that incipient species readily arise but are generally short-lived, and it seems likely that extinction-via-hybridzation or 'speciation reversal' is a major reason. This observations point to a major consequence: to cultivate a mechanistic understanding of the build-up of biodiversity, researchers will require a much better grasp of how stable, non-ephemeral reproductive barriers tend to evolve in nature. 
 
-In a new perspective paper, I call attention this problem and synthesize available evidence with respect to the unknown role of ecological adaptation in the evolution of unconditional or 'intrinsic' reproductive isolation [(**Anderson et al. 2023, Am. Nat.**)]. 
+In a new perspective paper, I call attention this problem and synthesize available evidence with respect to the unknown role of ecological adaptation in the evolution of unconditional or 'intrinsic' reproductive isolation (**Anderson et al. 2023, Am. Nat.**). 
 
-I have also launched a new research project with Daniel Matute into the evolution of intrinsic isolation between two species of *Drosophila* (*D. santomea and D. yakuba)*. These species form a natural hybrid zone (one of the only known for *Drosophila* in the wild) on the island of Sa&otilde; Tom&eacute;, which straddles the equator off the coast of west Africa. There, the two species displace one another across an ecological gradient on the slopes of Pico de Sa&otilde; Tom&eacute;, with *D. yakuba* occurring at lower elevations and the endemic *D. santomea* occupying higher slopes. The system thus touches on the two major themes of my research <span>&#8212;</span> speciation and the factors affecting coexistence.
+I have also launched a new research project with Daniel Matute into the evolution of intrinsic isolation between two species of *Drosophila* (*D. santomea and D. yakuba)*. These species form a natural hybrid zone (one of the only known for *Drosophila* in the wild) on the island of S&atildeo; Tom&eacute;, which straddles the equator off the coast of west Africa. There, the two species displace one another across an ecological gradient on the slopes of Pico de S&atilde;o Tom&eacute;, with *D. yakuba* occurring at lower elevations and the endemic *D. santomea* occupying higher slopes. The system thus touches on the two major themes of my research <span>&#8212;</span> speciation and the factors affecting coexistence.
 
 I recently (Nov. 2022) completed the first field expedition to the northwestern slope of the mountain and will use the resulting genomic data to test alternative hypotheses regarding irreversible barriers to introgression and their ecological basis. I also plan to formulate analytical and simulation-based models to generate intuition regarding the build-up of intrinsic isolation in these and other taxa.  
+
+Refs.<br>
+Rosenblum et al. (2012). Evol Biol. 39:255-261.
 
 ---
 
