@@ -7,11 +7,13 @@ main_nav: true
 
 ### Overview
 
-For biodiversity to arise and accumulate, two processes must occur. First, lineages must split into two or more descendants (i.e. they must speciate without sliding back into a hybrid swarm), and second, descendant lineages must establish overlapping ranges. 
+I study the ecology and evolution of organisms in order to draw inferences about how biodiversity tends to evolve. My ultimate aim is to better understand the mechanisms that generate patterns of biodiversity. 
+
+My work is grounded in a basic premise, which is that for biodiversity to arise and accumulate, two processes must occur. First, lineages must split into two or more descendants (i.e. they must (a) speciate and (b) resist sliding back into a hybrid swarm), and second, descendant lineages must establish overlapping ranges. 
 
 While the first requirement is obvious, the second follows from the fact that speciation is largely an allopatric process, and allopatry is often achieved when a species’ range is split into two or more isolated subdivisions (i.e. “vicariance”). But vicariance alone is ultimately limited in its ability to generate diversity, as ranges can only be split so many times and still support viable populations. For diversification to continue, lineages must expand geographically to attain range sizes that can bear further subdivision. In nature, this means lineages must often overlap with close relatives. 
 
-Speciation and the establishment of sympatry are thus two critical rate-limiting steps in the diversification cycle. The primary focus of my work is to better understand their most general drivers. 
+Speciation and the establishment of sympatry are thus two critical rate-limiting steps in the diversification cycle. The primary focus of my work is to better understand their drivers -- and, where possible, to draw broad generalizations
 
 ---
 ---
