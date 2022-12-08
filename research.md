@@ -15,7 +15,7 @@ While the first requirement is obvious, the second follows from the fact that sp
 
 Speciation and the establishment of sympatry are thus two critical rate-limiting steps in the diversification cycle. The primary focus of my work is to better understand the factors affecting these processes. 
 
-Finally, while nature is certainly idiosyncratic, it is ultimately necessary to generalize when attempting to explain broader-scale patterns of diversity. For this reason, a major focus of my work is data synthesis and the use of statistical models to draw general inferences about the mechanisms driving (or halting) progress toward the origin of new species.
+<!--Finally, while nature is certainly idiosyncratic, it is ultimately necessary to generalize when attempting to explain broader-scale patterns of diversity. For this reason, a major focus of my work is data synthesis and the use of statistical models to draw general inferences about the mechanisms driving (or halting) progress toward the origin of new species.-->
 
 ---
 ---
@@ -65,7 +65,7 @@ Geographic variation in species richness implies geographic variation in (a) the
 
 #### Approaches
 
-To test for variation in the dynamics of lineage pair divergence, we can extend trait divergence models to allow key parameters to vary across continuous or categorical variables (e.g. latitude, see [(**Anderson and Weir 2021, PNAS**)](https://doi.org/10.1073/pnas.2021209118) and [(**Anderson and Weir 2022 *In Press***)]. A variety of such extended models are available in the *diverge* R package. <br>
+To test for variation in the dynamics of lineage pair divergence, we can extend trait divergence models to allow key parameters to vary across continuous or categorical variables (e.g. latitude, [(**Anderson and Weir 2021, PNAS**](https://doi.org/10.1073/pnas.2021209118) and **Anderson and Weir 2022 *In Press***). A variety of such extended models are available in the *diverge* R package. <br>
 
 <img src="/assets/gradientfig.jpg" alt="gradientfig" style="width:350px;"/>
 
