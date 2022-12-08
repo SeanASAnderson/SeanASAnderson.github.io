@@ -59,19 +59,7 @@ An additional note on the character displacement models of this paper: previous 
 
 ---
 
-### 2. Geographic variation in the processes promoting speciation and coexistence
-
-Geographic variation in species richness implies geographic variation in (a) the dynamics of speciation, the (b) establishment of sympatry, (c) colonization, and (d) extinction -- or a combination of these factors. I'm interested in whether and how the mechanism of speciation and the dynamics of secondary sympatry vary across environments.
-
-#### Approaches
-
-To test for variation in the dynamics of lineage pair divergence, we can extend trait divergence models to allow key parameters to vary across continuous or categorical variables (e.g. latitude, [(**Anderson and Weir 2021, PNAS**](https://doi.org/10.1073/pnas.2021209118) and **Anderson and Weir 2022 *In Press***). A variety of such extended models are available in the *diverge* R package. <br>
-
-<img src="/assets/gradientfig.jpg" alt="gradientfig" style="width:350px;"/>
-
----
-
-### 3. Factors affecting speciation reversal
+### 2. Factors affecting speciation reversal
 
 The road to origin of species is not a one-way street. While barriers to gene flow can quickly arise between lineages under some circumstances, such barriers can also quickly dissolve when circumstances change, resulting in incipient species collapse. In fact, growing evidence supporting an ephemeral speciation model (Rosenblum et al. 2012) suggests that incipient species readily arise but are generally short-lived, and it seems likely that extinction-via-hybridzation or 'speciation reversal' is a major reason. This observations point to a major consequence: to cultivate a mechanistic understanding of the build-up of biodiversity, researchers will require a much better grasp of how stable, non-ephemeral reproductive barriers tend to evolve in nature. 
 
@@ -83,6 +71,18 @@ I recently (Nov. 2022) completed a field expedition in which I sampled the first
 
 Refs.<br>
 Rosenblum et al. (2012). Evol Biol. 39:255-261.
+
+---
+
+### 3. Geographic variation in the processes promoting speciation and coexistence
+
+Geographic variation in species richness implies geographic variation in (a) the dynamics of speciation, the (b) establishment of sympatry, (c) colonization, and (d) extinction -- or a combination of these factors. I'm interested in whether and how the mechanism of speciation and the dynamics of secondary sympatry vary across environments.
+
+#### Approaches
+
+To test for variation in the dynamics of lineage pair divergence, we can extend trait divergence models to allow key parameters to vary across continuous or categorical variables (e.g. latitude, [(**Anderson and Weir 2021, PNAS**](https://doi.org/10.1073/pnas.2021209118) and **Anderson and Weir 2022 *In Press***). A variety of such extended models are available in the *diverge* R package. <br>
+
+<img src="/assets/gradientfig.jpg" alt="gradientfig" style="width:350px;"/>
 
 ---
 
