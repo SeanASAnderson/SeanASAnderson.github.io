@@ -46,7 +46,7 @@ Addressing the generality of adaptive ecological divergence as an engine of dive
 
 <img src="/assets/aw2020_fig1.jpg" alt="aw2020fig1" style="width:350px;"/>
 
-**Divergent Adpatation and Speciaton**: One way to infer the generality of ecological speciation is to estimate the proportion of speciating and recently speciated lineages pairs that show evidence of ecology-based divergent selection (ecological speciation's driver). This proportion can be estimated from mixture models in which different pairs in a lineage-pair dataset conform to different underlying processes of functional trait divergence. I've recently described and tested such mixture models (Anderson and Weir *In Press*), several of which are available in the R package [***diverge*** **(version 2.0 and greater)**](https://cran.r-project.org/web/packages/diverge/index.html). 
+**Divergent Adpatation and Speciaton**: One way to infer the generality of ecological speciation is to estimate the proportion of speciating and recently speciated lineages pairs that show evidence of ecology-based divergent selection (ecological speciation's driver). This proportion can be estimated from mixture models in which different pairs in a lineage-pair dataset conform to different underlying processes of functional trait divergence. I've recently described and tested such mixture models **(Anderson and Weir *In Press*)**, several of which are available in the R package [***diverge*** **(version 2.0 and greater)**](https://cran.r-project.org/web/packages/diverge/index.html). 
 
 <img src="/assets/mix_models.jpg" alt="mixmodel" style="width:500px;"/>
 
