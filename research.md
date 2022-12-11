@@ -7,7 +7,7 @@ main_nav: true
 
 ### Overview
 
-I study the ecology and evolution of organisms in order to draw inferences about how biodiversity tends to evolve. My ultimate aim is to better understand the mechanisms that generate observable patterns of biodiversity. 
+I study the ecology and evolution of organisms in order to draw inferences about how biodiversity tends to evolve. My ultimate aim is to better understand the mechanisms that generate observable patterns of species richness. 
 
 My work is grounded in a basic premise, which is that for biodiversity to arise and accumulate, two processes must occur. First, lineages must split into two or more descendants (i.e. they must (a) speciate and (b) resist sliding back into a hybrid swarm), and second, descendant lineages must establish overlapping ranges. 
 
