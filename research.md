@@ -43,7 +43,7 @@ Addressing the generality of adaptive ecological divergence as an engine of dive
 
 I recently addressed this problem as it pertains to several groups of birds, mammals, and amphibians **(Anderson and Weir *In Press*)**. In this paper, we describe new mixture models in which different pairs in a lineage-pair dataset conform to different underlying processes of ecological trait divergence (e.g. divergent v. parallel adaptation or parallel adaptation v. phenotypic drift). The models allow us to estimate the proportion of allopatric pairs in a given dataset whose trait differences correspond to theoretical expectations of these alternative underlying processes. 
 
-We found that regardless the trait or dataset in question, relatively few pairs in any particular analysis (out of 130 analyses) are best described by a divergent adaptation model. Instead, an overwhelming proportion of pairs are better described by models of parallel adaptive evolution.
+We found that regardless the trait or dataset in question, relatively few pairs in any particular analysis (out of 130 analyses) are best described by a divergent adaptation model. Instead, an overwhelming proportion of pairs are better described by models of parallel adaptive evolution. It thus appears that allopatric speciation is most generally characterized by lineages adaptively evolving under similar ecology-based selective pressures. Ecological divergence may yet be important later in speciation as lineages begin to overlap geographically. 
 
 The mixture models are now available in the R package [***diverge*** **(version 2.0 and greater)**](https://cran.r-project.org/web/packages/diverge/index.html).
 
