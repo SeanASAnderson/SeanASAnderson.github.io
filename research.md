@@ -47,7 +47,7 @@ We found that regardless the trait or dataset in question, relatively few pairs 
 
 The mixture models are now available in the R package [***diverge*** **(version 2.0 and greater)**](https://cran.r-project.org/web/packages/diverge/index.html).
 
-<img src="/assets/mix_models.jpg" alt="mixmodel" style="width:500px;"/>
+<img src="/assets/aw2022_fig3.jpg" alt="fig3histogram" style="width:500px;"/>
 
 **Divergent Adaptation and Sympatry**: Sympatric lineage pairs are often more differentiated in ecomorphology than allopatric pairs. This pattern is the expected outcome from character displacement -- but this pattern can also be produced if lineages that evolve greater differences in allopatry are more likely to establish overlapping ranges upon secondary contact (i.e. 'species sorting'). I recently developed simulation-based models to distinguish these alternatives and found that character displacement better accounts for observed patterns of bill shape differences in allopatric and sympatric pairs of New World terrestrial birds [(**Anderson and Weir 2021, PNAS**)](https://doi.org/10.1073/pnas.2021209118). 
 
