@@ -15,7 +15,7 @@ img {
 
 <h2>Out Now</h2>-->
 
-<p><u>Anderson, S.A.S.</u>, Anspatch, T. <i>In Press</i>. (Digest) The non-redundancy of non-ephemeral reproductive isolation. <b>Evolution</b></p>
+<p><u>Anderson, S.A.S.</u>, Anspatch, T. <i>In Press</i>. (Digest) The non-redundancy of non-ephemeral reproductive isolation. <b>Evolution</b> <a href="https://academic.oup.com/evolut/advance-article/doi/10.1093/evolut/qpac060/6918776"><b><i>qpac060</i></b></a> </p>
 
 <p><u>Anderson, S.A.S.</u>, Weir, J.T. (2022). The role of divergent ecological adaptation during allopatric speciation in vertebrates. <b>Science.</b> <a href="https://www-science-org.myaccess.library.utoronto.ca/doi/10.1126/science.abo7719"><b><i>378: 1214-1218.</i></b></a> </p> 
 
