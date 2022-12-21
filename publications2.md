@@ -17,7 +17,7 @@ img {
 
 <p><u>Anderson, S.A.S.</u>, Anspatch, T. <i>In Press</i>. (Digest) The non-redundancy of non-ephemeral reproductive isolation. <b>Evolution</b> <a href="https://academic.oup.com/evolut/advance-article/doi/10.1093/evolut/qpac060/6918776"><b><i>qpac060</i></b></a> </p>
 
-<p><u>Anderson, S.A.S.</u>, Weir, J.T. (2022). The role of divergent ecological adaptation during allopatric speciation in vertebrates. <b>Science.</b> <a href="https://www-science-org.myaccess.library.utoronto.ca/doi/10.1126/science.abo7719"><b><i>378: 1214-1218.</i></b></a> </p> 
+<p><u>Anderson, S.A.S.</u>, Weir, J.T. (2022). The role of divergent ecological adaptation during allopatric speciation in vertebrates. <b>Science.</b> <a href="https://www-science-org.myaccess.library.utoronto.ca/doi/10.1126/science.abo7719"><b><i>378: 1214-1218.</i></b></a> Media write-ups: <a href="https://utsc.utoronto.ca/news-events/breaking-research/study-finds-most-new-species-dont-evolve-adapting-different-environments-similar"><b><i>UTSC News </i></b></a>, <a href="http://techzle.com/how-new-species-arise"> <b><i>Techzle </i></b></a> </p> 
 
 <p><u>Anderson, S.A.S.</u>, L&ograve;pez-Fern&agrave;ndez, H., Weir, J.T. <i>In Press</i>. Ecology and the origin of non-ephemeral species. <b>American Naturalist.</b> <a href="https://doi.org/10.1086/723763"><b><i>https://doi.org/10.1086/723763</i></b></a> </p>
 
