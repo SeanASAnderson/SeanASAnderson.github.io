@@ -15,7 +15,7 @@ While the first requirement is obvious, the second follows from the fact that sp
 
 Speciation and the establishment of sympatry are thus two critical rate-limiting steps in the diversification cycle. The primary focus of my work is to better understand the factors affecting these processes. 
 
-<!--Finally, while nature is certainly idiosyncratic, it is ultimately necessary to generalize when attempting to explain broader-scale patterns of diversity. For this reason, a major focus of my work is data synthesis and the use of statistical models to draw general inferences about the mechanisms driving (or halting) progress toward the origin of new species.-->
+<!--Finally, while nature is certainly idiosyncratic, it is ultimately necessary to generalize when attempting to explain broader-scale patterns of diversity. For this reason, a major focus of my work is data synthesis and the use of statistical models to draw general inferences about the mechanisms driving (or halting) progress toward the origin of new species...and how variation in these factors can help explain the unequal distribution of global biodiversity-->
 
 ---
 ---
@@ -61,7 +61,7 @@ An additional note on the character displacement models of this paper: previous 
 
 The road to origin of species is not a one-way street. While barriers to gene flow can quickly arise between lineages under some circumstances, such barriers can also quickly dissolve when circumstances change, resulting in incipient species collapse. In fact, growing evidence supporting an ephemeral speciation model ([Rosenblum et al. 2012](https://link.springer.com/article/10.1007/s11692-012-9171-x)) suggests that incipient species readily arise but are generally short-lived, and it seems likely that extinction-via-hybridzation or 'speciation reversal' is a major reason. This observations point to a major consequence: to cultivate a mechanistic understanding of the build-up of biodiversity, researchers will require a much better grasp of how stable, non-ephemeral reproductive barriers tend to evolve in nature. 
 
-In a new perspective paper, I call attention this problem and synthesize available evidence with respect to the unknown role of ecological adaptation in the evolution of unconditional or 'intrinsic' reproductive isolation [(**Anderson et al. 2023, Am. Nat.**)](https://doi.org/10.1086/723763).
+In a new perspective paper, I call attention this problem and synthesize available evidence with respect to the unknown role of ecological adaptation in the evolution of unconditional or 'intrinsic' reproductive isolation [(**Anderson et al. In Press, Am. Nat.**)](https://doi.org/10.1086/723763).
 
 I have also launched a new research project with Daniel Matute into the evolution of intrinsic isolation between two species of wild *Drosophila* (*D. santomea and D. yakuba)*. These species form a natural hybrid zone (one of the only known for *Drosophila* in the wild) on the island of S&atilde;o Tom&eacute;, which straddles the equator off the coast of west Africa. There, the two species displace one another across an ecological gradient on the slopes of Pico de S&atilde;o Tom&eacute;, the island's highest peak, with *D. yakuba* occurring at lower elevations and the endemic *D. santomea* occupying the higher slopes. This system touches on the two major themes of my research <span>&#8212;</span> speciation and the factors affecting coexistence.
 
