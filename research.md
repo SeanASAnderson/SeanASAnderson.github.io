@@ -28,7 +28,7 @@ The idea that speciation is partly an ecological process dates to Darwin and Wal
 
 Strong evidence for the ETAR's main tenets has been reported in a number of detailed studies, many of which focus on systems from insular habitats such as lakes and oceanic islands. These habitats are somewhat specialized, however, in that they tend to contain fewer species and thus fewer predators and competitors than similar-sized areas on continents. In this respect, insular environments provide exceptionally favourable conditions for rapid and pronounced adaptative evolution (i.e. "ecological release", [Herrmann et al. 2020](https://doi.org/10.1016/j.tree.2020.10.019); and "ecological opportunity" [Stroud and Losos 2016](https://doi.org/10.1146/annurev-ecolsys-121415-032254)). 
 
-It is likely that continental lineages seldom experience conditions equally amenable to adaptive ecological divergence -- and yet continental lineages diversify nonetheless. Given that most diversification probably occurs in the continental context, a critical question is to what extent adaptive ecological divergence is generally required for speciation or coexistence for lineages in these more complex ecological theatres.
+It is likely that continental lineages seldom experience conditions equally amenable to adaptive ecological divergence -- and yet continental lineages diversify nonetheless. Given that most diversification probably occurs in the continental context, a critical question is to what extent adaptive ecological divergence is generally required for speciation or coexistence for lineages evolving in these more complex ecological theatres.
 
 #### Approaches
 
