@@ -52,7 +52,7 @@ The mixture models are now available in the R package [***diverge*** **(version 
 
 <img src="/assets/pnas_fig1.jpg" alt="aw2021pnasfig1" style="width:500px;"/>
 
-An additional note on the character displacement models of this paper: previous comparative analyses of character displacement often tested for differences in evolutionary rate between symaptric and allopatric pairs, but an implicit assumption of this approach is that sympatric pairs were always sympatric (even though speciation is agreed to largely require a period of allopatry). A key advance of our character displacement model is that it tests for a shift in selective regime that occurred when lineages are estimated to have become sympatric. 
+An additional note on the character displacement models of this paper: previous comparative analyses of character displacement often tested for differences in evolutionary rate between sympatric and allopatric pairs, but an implicit assumption of this approach is that sympatric pairs were always sympatric (even though speciation is agreed to largely require a period of allopatry). A key advance of our character displacement model is that it tests for a shift in selective regime that occurred when lineages are estimated to have become sympatric. 
 <br>
 
 ---
