@@ -65,7 +65,7 @@ In a new perspective paper, I call attention this problem and synthesize availab
 
 I have also launched a new research project with Daniel Matute into the evolution of intrinsic isolation between two species of wild *Drosophila* (*D. santomea and D. yakuba)*. These species form a natural hybrid zone (one of the only known for *Drosophila* in the wild) on the island of S&atilde;o Tom&eacute;, which straddles the equator off the coast of west Africa. There, the two species displace one another across an ecological gradient on the slopes of Pico de S&atilde;o Tom&eacute;, the island's highest peak, with *D. yakuba* occurring at lower elevations and the endemic *D. santomea* occupying the higher slopes. This system touches on the two major themes of my research <span>&#8212;</span> speciation and the factors affecting coexistence.
 
-I recently (Nov. 2022) completed a field expedition in which I sampled the first-ever elevational transect on the northwest slope of the mountain. I will use the resulting genomic data to test alternative hypotheses regarding irreversible barriers to introgression and their ecological basis. I also plan to formulate analytical and simulation-based models to generate intuition regarding the build-up of intrinsic isolation in these and other taxa. 
+**I recently completed a field expedition in which I sampled the first-ever elevational transect on the northwest slope of the mountain**. I am currently using the resulting genomic data to test alternative hypotheses regarding irreversible barriers to introgression and their ecological basis. I am also formulating analytical and simulation-based models to generate intuition regarding the build-up of intrinsic isolation in these and other taxa. 
 
 ---
 
