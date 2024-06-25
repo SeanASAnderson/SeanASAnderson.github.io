@@ -31,7 +31,7 @@ img {
 
 <h2>Published Software</h2>
 
-<p><u>Anderson, S.A.S.</u> (2021). phylopairs. R package version 0.1.0.
+<p><u>Anderson, S.A.S.</u> (2024). phylopairs. R package version 0.1.0.
 
 <p><u>Anderson, S.A.S.</u> and Weir, J.T. (2021). diverge: evolutionary trait divergence between sister species and other paired lineages. R package version 2.0.1. <a href="https://cran.r-project.org/web/packages/diverge/index.html"><b><i>CRAN page</i></b></a></p>
 
