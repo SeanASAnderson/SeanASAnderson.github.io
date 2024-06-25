@@ -1,0 +1,45 @@
+## Things to start-on in this postdoc
+
+#=================================================
+## The inflection-point paper
+# Figuring out how, during the accumulation of BDMIs, the isolation they provide switches from being totally reversible to irreversible
+# Initial thoughts are that this is a function of variation in hybrid fitness
+# Early-on, when there are few BDMIs, there is great variation in hybrid fitness. BDMIs can then be purged by selection
+# Later on, when there are many BDMIs, variation in hybrid fitness is low. No longer enough variation to select for the "fittest" genotypes and therefore purge incompatible allele combinations
+# This requires me to do some math, which I need to start doing every single day from here on out. 
+# This is probably a project that I won't realistically get to for several months, but it's one that I'm most intellectually intersted in and keen on (and the only one that's based entirely on my own ideas). 
+# Papers to read: lots of them listed in the introduction of Dagilis and Matute introgressing haplotype paper
+
+#=================================================
+## The santomea-yakuba genomics paper
+# This is a core paper of my postdoc, the real thing to get out of being in this lab
+# This paper that will show that I can collect and analyze individual datasets
+# It also introduces me to a bunch of new techniques that will be invaluable going forward (really these are probably necessary for a lot of future work on speciation)
+# This one will begin immediately
+# Aim here is to have something on biorxiv by the summer
+
+#=================================================
+## The "mode of isolation" paper
+# This is a paper in which we look for variation in the 'dominant' mode of RI across an environmental gradient, probably latitude
+# In C&O (2004), they outline how one can measure the contribution of individual modes of RI to "total" RI
+# I want to see if the 'dominant' mode varies systematically across a gradient
+# I need to first find out for how many species groups these indexes have been made for and second see if there's enough variation in any environmental gradient among those groups to test for the hypothesized systematic relationship
+# I will also have to teach myself how to scrape latitude data from gbif, which Daniel suggested
+# Another element to this is that of scale: Daniel really dislikes the scale that C&O used for these purposes. I'm not sure what he means by this. 
+# Tomorrow, I can look up Coyne and Orr's scale, try to explain to myself what Daniel is talking about, and figure out for what datasets the necessary data are available
+# I think this is a high-priority project with the potential for high benefit in the shortest amount of time. The work itself requires me to learn very little. I am familiar with the theory and hypotheses that would be involved. If we detect a systematic relationship, I suspect this will be of great interest to many and could even be a fairly high-impact paper. Getting it submitted quickly would also buy me some time to work on the harder projects.
+# datasets --> everything in the Cooper and Matute paper, also everything in the paper he mentioned that he had recently done with Jenn
+
+#=================================================
+## Bottom line, I need at least one project submitted by July 2023. If the data are available for mode of isolation (a big "if"), then this is my safest bet for a quick submission. 
+
+#=================================================
+## Sister species paper -- what can we say about trait evolution in sister species of Drosophila? 
+-- can we classify them as specialists or whatever?? Island v. continent
+# one cool thing we might be able to do is look at RI as a predictor variable!! That would actually be rad. 
+
+#=================================================
+# We need something that would address, in a comparative context, a fundamental question in speciation genomics
+# What are some fundamental questions in speciation genomics? 
+# Size of haplotypes as time goes on? Recombination rate and shit like that? 
+# 
