@@ -11,7 +11,7 @@ img {
 }
 </style>
 
-<h2>Submitted/ In Review</h2>
+<h2>Submitted / In Review</h2>
 
 <p><u>Anderson, S.A.S.</u>, Kaushik, S., Matute, D. R. The comparative analysis of lineage-pair data. </p>
 
