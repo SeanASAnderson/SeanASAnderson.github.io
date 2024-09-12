@@ -13,6 +13,8 @@ img {
 
 <h2>Submitted / In Review</h2>
 
+<p><u>Anderson, S.A.S.</u>, Matute, D. R. Secondary sympatry as a sorting process. </p>
+
 <p><u>Anderson, S.A.S.</u>, Kaushik, S., Matute, D. R. The comparative analysis of lineage-pair traits. </p>
 
 <h2>Out Now</h2>
