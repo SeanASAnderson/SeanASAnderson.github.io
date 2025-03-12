@@ -17,7 +17,7 @@ img {
 
 <h2>Out Now</h2>
 
-<p><u>Anderson, S.A.S.</u>, Matute, D. R.  <i> Accepted.</i> Secondary sympatry as a sorting process.<b> Ecology Letters.</b> </p>
+<p><u>Anderson, S.A.S.</u>, Matute, D. R.  <i> (Accepted). </i> Secondary sympatry as a sorting process.<b> Ecology Letters.</b> </p>
 
 <p><u>Anderson, S.A.S.</u>, Anspatch, T. (2023). (Digest) The non-redundancy of non-ephemeral reproductive isolation. <b>Evolution</b> <a href="https://academic.oup.com/evolut/advance-article/doi/10.1093/evolut/qpac060/6918776"><b><i>77: 618–619.</i></b></a> </p>
 
