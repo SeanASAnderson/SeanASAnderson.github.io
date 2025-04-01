@@ -74,11 +74,11 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  - name: Twitter
-    icon: twitter
+  - name: Blue Sky
+    icon: bluesky
     #username: seanASanderson
-    url: https://twitter.com/seanASanderson
-    desc: Follow me on Twitter
+    url: https://bsky.app/profile/seananderson.bsky.social
+    desc: Follow me on Bluesky
     share: true
 
   - name: GitHub
