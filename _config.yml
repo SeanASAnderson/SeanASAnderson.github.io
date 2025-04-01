@@ -9,7 +9,7 @@ plugins:
   - "/vendor/"
 
 # Site settings
-title: Sean A. S. Anderson
+title: The Anderson Lab at Georgia Tech
 #subtitle: <a href="https://github.com/SeanASAnderson/CV/blob/main/AndersonSean.CV.2021.pdf">My CV</a>
 author: "Sean Anderson"
 email: sean.anderson@gatech.edu
