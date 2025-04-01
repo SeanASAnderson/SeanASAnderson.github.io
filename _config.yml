@@ -74,7 +74,7 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-  - name: Blueskky
+  - name: Bluesky
     icon: bluesky
     #username: seanASanderson
     url: https://bsky.app/profile/seananderson.bsky.social
