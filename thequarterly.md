@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "The EEB Quarterly"
+title: "Outreach"
 permalink: /quarterly/
 main_nav: true
 ---
