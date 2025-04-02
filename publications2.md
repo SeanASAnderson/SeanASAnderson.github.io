@@ -10,12 +10,12 @@ img {
 	float:right;
 }
 </style>
-
-<h2>Submitted / In Review</h2>
+ 
+<!--< <h2>Submitted / In Review</h2>-->
 
 <p><u>Anderson, S.A.S.</u>, Kaushik, S., Matute, D. R. <i> (In Revision). </i> The comparative analysis of lineage-pair traits. <a href="https://doi.org/10.1101/2024.11.28.625927"><b><i>BiorXiv.</i></b></a> </p>
 
-<h2>Out Now</h2>
+<!--< <h2>Out Now</h2>-->
 
 <p><u>Anderson, S.A.S.</u>, Matute, D. R.  <i> (Accepted). </i> Secondary sympatry as a sorting process.<b> Ecology Letters.</b> </p>
 
