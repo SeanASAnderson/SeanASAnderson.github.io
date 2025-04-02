@@ -19,6 +19,8 @@ img {
 
 <p><u>Anderson, S.A.S.</u>, Matute, D. R.  <i> (Accepted). </i> Secondary sympatry as a sorting process.<b> Ecology Letters.</b> </p>
 
+<p>Kim, B.Y., ... , <u>Anderson, S.A.S.</u>, ... Petrov, D. A. (2024). Single-fly genome assemblies fill major phylogenomic gaps across the Drosophilidae Tree of Life <b>PLoS Biology</b> <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002697"><b><i> 22: e3002697.</i></b></a> </p>
+
 <p><u>Anderson, S.A.S.</u>, Anspatch, T. (2023). (Digest) The non-redundancy of non-ephemeral reproductive isolation. <b>Evolution</b> <a href="https://academic.oup.com/evolut/advance-article/doi/10.1093/evolut/qpac060/6918776"><b><i>77: 618–619.</i></b></a> </p>
 
 <p><u>Anderson, S.A.S.</u>, L&ograve;pez-Fern&agrave;ndez, H., Weir, J.T. (2023). Ecology and the origin of non-ephemeral species. <b>American Naturalist.</b> <a href="https://doi.org/10.1086/723763"><b><i>201: 619-638.</i></b></a> </p>
