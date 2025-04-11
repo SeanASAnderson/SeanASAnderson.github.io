@@ -17,7 +17,7 @@ img {
 
 <!--< <h2>Out Now</h2>-->
 
-<p><u>Anderson, S.A.S.</u>, Matute, D. R.  <i> (Accepted). </i> Secondary sympatry as a sorting process.<b> Ecology Letters.</b> </p>
+<p><u>Anderson, S.A.S.</u>, Matute, D. R.  <i> (2025). </i> Secondary sympatry as a sorting process.<b> Ecology Letters.</b> <a href="https://onlinelibrary.wiley.com/doi/10.1111/ele.70108"><b><i> 28: e70108.</i></b></a> </p>
 
 <p>Kim, B.Y., ... , <u>Anderson, S.A.S.</u>, ... Petrov, D. A. (2024). Single-fly genome assemblies fill major phylogenomic gaps across the Drosophilidae Tree of Life <b>PLoS Biology</b> <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002697"><b><i> 22: e3002697.</i></b></a> </p>
 
