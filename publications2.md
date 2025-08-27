@@ -13,7 +13,7 @@ img {
  
 <!--< <h2>Submitted / In Review</h2>-->
 
-<p><u>Anderson, S.A.S.</u>, Kaushik, S., Matute, D. R. <i> (In Revision). </i> The comparative analysis of lineage-pair traits. <a href="https://doi.org/10.1101/2024.11.28.625927"><b><i>BiorXiv.</i></b></a> </p>
+<p><u>Anderson, S.A.S.</u>, Kaushik, S., Matute, D. R. <i> Accepted. </i> The comparative analysis of lineage-pair traits. <b> Systematic Biology.</b><a href="https://doi.org/10.1101/2024.11.28.625927"><b><i>Preprint at BiorXiv.</i></b></a> </p>
 
 <!--< <h2>Out Now</h2>-->
 
