@@ -44,5 +44,11 @@ img {
    <br> Robert Ernst is an evolutionary ecologist broadly interested how mountain species are adapting to various climatic and behavioral pressures. He is currently working with the Anderson lab to develop and synthesize a large database of hybrid fitness across plants and animals (i.e. The Hybrid Fitness Consortium). Robert is also working with <a href="https://benjamingfreeman.com/"><i>Dr. Benjamin Freeman's </i></a> Mountain bird lab on an analysis of large citizen science databases to demonstrate how cowbird nest parasitism strategies change over their range.
 </p>
 
+<p>
+  <b>Giuli Capparelli Sanabria</b> Undergraduate Researcher <img src="/assets/giuli_skunk.jpeg" alt="Giuli Skunk" style="width:150px;height:225px;">
+  <br><b>gsanabria6@gatech.edu</b>
+   <br> I am a third year Biology major on the Pre-Veterinary pathway, also working towards a minor in Leadership Studies. My love for animals introduced me to the field of Ecology, and I am interested in understanding how species adapt to their environments, and the different adaptations throughout the animal kingdom. One important application of this idea is Hybrid Fitness: how well hybrid offspring survive and reproduce compared to their parents, a topic on which I've worked in this lab as part of the Hybrid Fitness Consortium. Outside of the lab, I am passionate about making education more accessible, and I always love a good book!
+</p>
+
 
 
