@@ -56,7 +56,7 @@ img {
 </p>
 
 <p>
-  <b>Niyathi Yamunan</b> Undergraduate Researcher <img src="/assets/niyathi.jpeg" alt="Niyathi" style="width:150px;height:225px;">
+  <b>Niyathi Yamunan</b> Undergraduate Researcher <img src="/assets/niyathi.jpg" alt="Niyathi" style="width:150px;height:225px;">
   <br><b>nyamunan3(at)gatech.edu</b>
    <br> I am a first year Biochemistry major planning to complete the 5-year Bs/Ms program offered at Tech. Growing up, collecting the abundant fossils in my native Texas sparked my interest in the evolutionary history of our planet. I am currently working with the Anderson lab to develop a relational database containing data about the fitness of several species of plants and animals and their hybrid offspring. In my free time, I enjoy baking, embroidery, and building LEGO sets.
 </p>
