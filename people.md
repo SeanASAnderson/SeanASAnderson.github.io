@@ -32,9 +32,14 @@ img {
 
 <h2>Graduate Students</h2>
 <p>
-  <b>(Martin) Xinyu Zhang</b> Master's Student <img src="/assets/martin_zhang.jpg" alt="Martin" style="width:150px;height:225px;">
+  <b>(Martin) Xinyu Zhang</b> <img src="/assets/martin_zhang.jpg" alt="Martin" style="width:150px;height:225px;">
   <br><b>xzhang3237@gatech.edu</b>
    <br> My name is Martin, and I graduated from the UC Davis with a B.S. in Genetics and Genomics. My research interests focus on using genomic approaches to investigate speciation, evolutionary processes, and ecological adaptation. I am particularly interested in how genetic variation interacts with environmental factors to shape biodiversity and evolutionary trajectories. Currently, my project explores the dynamical nature of "islands" of genomic divergence and how they change upon secondary contact as a model for understanding the dynamics of speciation.
+</p>
+<p>
+  <b>(Martin) Marina Holdopolous </b> <img src="/assets/marina.jpg" alt="Marina" style="width:150px;height:225px;">
+  <br><b>xzhang3237@gatech.edu</b>
+   <br> The thread that connects my research experiences is my interest in the origin and maintenance of diverse life on Earth. My training is in microbiology, as bacteria are an excellent model to demonstrate eco-evo dynamics on a time scale in which we can study evolution in action.  I first worked as a technician in the Weiss Lab at Emory University, studying bacterial pathogenesis and the evolution of population-level heterogeneity in antibiotic resistance. I then studied in the Whiteley Lab at Georgia Tech, investigating how bacterial interactions impact spatial structure in infection environments. Now as a member of the Anderson Lab, I am broadly interested in the processes that govern the stability of organisms’ coexistence. These are the processes that keep our microbiomes healthy or dysbiotic, our coral reefs vibrant or degraded, and determine the outcome of ongoing speciation. I am currently studying how ecological differentiation allows for coexistence of closely related species despite gene flow. In other words, what are the ecological and genomic requirements for sister species to coexist?
 </p>
 
 <h2>Undergraduate Researchers</h2>
