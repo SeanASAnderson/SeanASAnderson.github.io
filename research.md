@@ -5,7 +5,7 @@ permalink: /research/
 main_nav: true
 ---
 
-### Overview
+<!--### Overview-->
 
 We study the ecology and evolution of non-model organisms to better understand how biodiversity tends to evolve. Our work blends computational biology with field biology and evolutionary ecology with evolutionary genetics, and we address fundamental questions surrounding the mechanisms that generate observable patterns of species richness. 
 
@@ -24,7 +24,7 @@ A non-exhaustive list of recent and on-going research themes are:
 
 Our current work is framed in the context of a revolution in our understanding of speciation that has emerged in the genomic age and that is not yet near complete. For instance, just prior to the routine publication of whole genomes, Coyne and Orr (2004) exhaustively surveyed the speciation literature and concluded "our guess is that morphologically distinct taxa showing rampant gene exchange at many loci will be rare" (p.41). We now know that such data are commonplace, that strong organismal RI doesn't always translate into reduced gene flow -- and, most radically (in the context of Modern Synthesis thought), that stable co-occurrence between diagnosable taxa does not imply a lack of introgression. Diagnostic trait differences can indeed be maintained despite weak evolutionary RI. 
 
-A key priority in our current age is thus to develop research questions that (1) treat RI as continuous rather than discrete, (2) recognize the reversibility of the proecess, and (3) are, rather paradoxically, agnostic about species status. One question that meets these criteria also forms the unifying question of our current work: how and why does the extent of independent evolution across the genomes of two lineages rise or fall over time? 
+A key priority in our current age is thus to develop research questions that (1) treat RI as continuous rather than discrete, (2) recognize the reversibility of the proecess, and (3) are, rather paradoxically, agnostic about species status. One question that meets these criteria also forms the unifying question of our current work: ***how and why does the extent of independent evolution across the genomes of two lineages rise or fall over time?***
 
 
 ---
