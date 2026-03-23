@@ -13,7 +13,7 @@ img {
  
 <!--< <h2>Submitted / In Review</h2>-->
 
-<p><u>Anderson, S.A.S.</u>, Kaushik, S., Matute, D. R. (2025). The comparative analysis of lineage-pair traits. <b> Systematic Biology.</b> <a href="https://doi.org/10.1093/sysbio/syaf061"><b><i> syaf061.</i></b></a> </p>
+<p><a href="https://academic.oup.com/sysbio/article/75/2/328/8248506?guestAccessKey="> <img src="/assets/sysbiol.march.cover.webp" alt="SysBiol cov" style="width:150px;height:225px;margin-left:05px;"> </a><u>Anderson, S.A.S.</u>, Kaushik, S., Matute, D. R. (2025). The comparative analysis of lineage-pair traits. <b> Systematic Biology.</b> <a href="https://doi.org/10.1093/sysbio/syaf061"><b><i> syaf061.</i></b></a> </p>
 
 <!--< <h2>Out Now</h2>-->
 
