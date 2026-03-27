@@ -13,6 +13,8 @@ img {
  
 <!--< <h2>Submitted / In Review</h2>-->
 
+<i> * = Corresponding author</i>
+
 <p><a href="assets/sysbiol.march.cover.webp"> <img src="assets/sysbiol.march.cover.webp" alt="SysBiol cov" style="width:150px;height:225px;margin-left:05px;"> </a><u>Anderson, S.A.S.</u>, Kaushik, S., Matute, D. R. (2025). The comparative analysis of lineage-pair traits. <b> Systematic Biology.</b> <a href="https://doi.org/10.1093/sysbio/syaf061"><b><i>75: 328-343.</i></b></a>
 <br>
 <i>• Cover article, Editor's Choice for March 2026 print issue.</i></p>
