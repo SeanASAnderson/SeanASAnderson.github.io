@@ -43,7 +43,7 @@ img {
 
 <h2>Published Software</h2>
 
-<p><u>Anderson, S.A.S.</u> (2025). phylopairs: comparative analyses of lineage-pair traits. R package version 0.1.1. <a href="https://CRAN.R-project.org/package=phylopairs"><b><i>'phylopairs' CRAN page.</i></b></a></p>
+<p><u>Anderson, S.A.S.<sup>*</sup></u> (2025). phylopairs: comparative analyses of lineage-pair traits. R package version 0.1.1. <a href="https://CRAN.R-project.org/package=phylopairs"><b><i>'phylopairs' CRAN page.</i></b></a></p>
 
-<p><u>Anderson, S.A.S.</u> and Weir, J.T. (2021). diverge: evolutionary trait divergence between sister species and other paired lineages. R package version 2.0.1. <a href="https://cran.r-project.org/web/packages/diverge/index.html"><b><i>'diverge' CRAN page.</i></b></a></p>
+<p><u>Anderson, S.A.S.<sup>*</sup></u> and Weir, J.T. (2021). diverge: evolutionary trait divergence between sister species and other paired lineages. R package version 2.0.1. <a href="https://cran.r-project.org/web/packages/diverge/index.html"><b><i>'diverge' CRAN page.</i></b></a></p>
 
